@@ -1,0 +1,1 @@
+{"jobID":"30486790-6061-8fa5-3fdc-49eec9625e80","spec":{"type":"policy","cause":{"Message":"","User":"eziegenhorn \u003ceric@ziegenhorns.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
