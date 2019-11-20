@@ -47,7 +47,7 @@ spec:
         - --random-error=false
         env:
         - name: PODINFO_UI_MESSAGE
-          value: "Welcome to flux"
+          value: "Welcome to flux 2"
         livenessProbe:
           httpGet:
             path: /healthz
